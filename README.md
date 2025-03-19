@@ -6,3 +6,6 @@ Create front end with React Js steps with Create react app
 3) cd frontend
 4) npm i web-vitals axios react-router-dom
 5) npm start
+
+Component:Navbar.jsx
+Pages:Login.jsx ,Regiser.jsx ,Home.jsx
